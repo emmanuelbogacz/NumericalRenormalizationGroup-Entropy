@@ -1,4 +1,4 @@
-# NumericalRenormalizationGroup-Entropy
+# Numerical Renormalization Group - Impurity Entropy of the Anderson Impurity Model
 A simple Julia code to compute the entropy of the Anderson impurity model using Numerical renormalization group
 
 This code is an example, tutorial code style for computation of the impurity entropy and energy flow diagram of the Anderson impurity model using Numerical renormalization group (NRG). Model parameters and NRG hyperparameters are customizable in the main file. The code outputs two plots: the impurity entropy and the energy flow for selected states, as well as an HDF5 file containing those datasets. 
